@@ -1,0 +1,31 @@
+{
+  "name": "rtp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zappen999/rtp-server.git"
+  },
+  "keywords": [
+    "RTP",
+    "stream",
+    "buffer"
+  ],
+  "author": "Johan Kanefur <johan.canefur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zappen999/rtp-server/issues"
+  },
+  "homepage": "https://github.com/zappen999/rtp-server#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
